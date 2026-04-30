@@ -48,5 +48,5 @@ spam-detection/
 └── requirements.txt        
 
 ## 👤 Author
-Anees
-BS Computer Science Student
+Muhammad Anees
+CS Graduate
